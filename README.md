@@ -61,6 +61,12 @@ Richardson's Maturity Model (RMM) - classifies REST-based Web services on how we
 
   - Level 3
     - Most mature level for a service built around notion of Hypermedia as the Engine of Application State (HATEOAS), that allows discoverability by providing responses that contain links to related resources
+    
+Steps in building a RESTful API: Identify Resources (app's domain or entities), Identify Endpoints, Identify Actions (HTTP methods that can be used to perform operations on resources), Identify Responses
+
+
+
+CHAPTER 2: Spring Web MVC Primer
 
 
 
